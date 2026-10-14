@@ -1,0 +1,10 @@
+.env
+data/tasks.json
+*.exe
+*.out
+.DS_Store
+.idea/
+.vscode/
+
+!.env.example
+data/.gitkeep
